@@ -1,0 +1,3 @@
+export var onizleme=["İsim","Soyisim","Doğum Tarihi","Email Adress","Uyruk","ID Number","Uyruk2","ID Number2","Uyruk3","ID Number3","Engel Bilgisi","Üniversite","Bölüm","Sınıf","Ortalama","Yüklenen Belgeler","Ulke","İl","İlçe","Mahalle","Telefon Numarası"]
+export var Anasyf_menu=["KHAS Anasayfa","Erasmus Hakkında","İletişim"];
+export var sidebar_menu=["KHAS Anasayfa","Başvuru Yap","Başvuru Görüntüle"];
